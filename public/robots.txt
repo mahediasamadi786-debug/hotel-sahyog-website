@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://hotel-sahyog.onrender.com/sitemap.xml
